@@ -1,0 +1,29 @@
+
+
+.header{
+    padding: 20px;
+}
+
+
+.questions{
+
+
+    background-color: rgb(185, 36, 125);
+    width: 1000px;
+    height: 12rem;
+    padding: 10px;
+    margin: 80px auto;
+}
+
+.alternatives{
+    display: flex;
+    justify-content: center;
+}
+.alternative{
+    background-color: blue;
+    padding: 10px;
+    margin: 10px 20px;
+    width: 40rem;
+    height: 100px;
+}
+
