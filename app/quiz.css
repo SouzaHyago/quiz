@@ -37,6 +37,7 @@
 .alternatives{
     display: flex;
     justify-content: center;
+    
 }
 .alternative{
     color: black;

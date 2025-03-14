@@ -264,8 +264,9 @@ export default function Home() {
 
 
   function restart(){
-    shuffleArray(quiz)
+    shuffleArray(quiz);
     setScore(0);
+    window.location.reload();
     
   }
 
