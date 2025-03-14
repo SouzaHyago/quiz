@@ -10,10 +10,13 @@
   },
   "dependencies": {
     "bootstrap": "^5.3.3",
+    "lodash": "^4.17.21",
     "next": "15.2.2",
     "quiz": "file:",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-confetti": "^6.4.0",
+    "react-dom": "^19.0.0",
+    "react-rewards": "^2.1.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
