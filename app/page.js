@@ -331,7 +331,6 @@ export default function Home() {
             <Confetti
               width={2000}
               height={600}
-              numberOfPieces={50}
             />
             
             <h1>Parabéns por ter finalizado o quiz!</h1>
