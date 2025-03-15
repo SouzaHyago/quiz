@@ -114,26 +114,6 @@ const quiz = [
   },
 
   {
-    "question": "Qual dessas músicas do rapper Racionais MC's é famosa pela frase \"A vida é uma grande peça de teatro\"?",
-     "alternatives": [
-        "\"Vida Loka (Parte 1)\"",
-        "\"Negro Drama\"",
-        "\"Pânico na Zona Sul\"",
-        "\"Jesus Chorou\""
-      ],
-     "answer" : "test"
-  },
-  {
-    "question": "Qual dessas músicas do rapper Racionais MC's é famosa pela frase \"A vida é uma grande peça de teatro\"?",
-     "alternatives": [
-        "\"Vida Loka (Parte 1)\"",
-        "\"Negro Drama\"",
-        "\"Pânico na Zona Sul\"",
-        "\"Jesus Chorou\""
-      ],
-     "answer" : "test"
-  },
-  {
     "question": "Qual dessas músicas NÃO é da banda O Terno?",
     "alternatives": [
       "Ai Ai Ai",
